@@ -1,0 +1,4 @@
+# Zeile 1: Bot-Token von @BotFather
+# Zeile 2: Chat-ID oder @kanalname
+123456789:BOT_TOKEN_HIER
+@mein_kanal

@@ -1,0 +1,6 @@
+# Geheimnisse - niemals committen
+ai-key.txt
+telegram.txt
+sent.json
+*.zip
+node_modules/
